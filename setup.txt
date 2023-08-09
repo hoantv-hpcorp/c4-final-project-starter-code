@@ -1,0 +1,5 @@
+sls config credentials --provider aws --key AKIAXWRNWOA4243DTK7B --secret 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 --profile serverless
+
+sls deploy -v --aws-profile serverless
+
+0963468595
